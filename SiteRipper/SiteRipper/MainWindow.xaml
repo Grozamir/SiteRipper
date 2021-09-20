@@ -1,0 +1,19 @@
+﻿<Window x:Class="SiteRipper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SiteRipper"
+        mc:Ignorable="d"
+        Title="Site Ripper" Height="450" Width="800">
+    <Grid Background="#FF7FD616">
+        <TextBox x:Name="InputedSite" HorizontalAlignment="Left" Height="100" Margin="10,50,0,0" TextWrapping="Wrap" Text="Вместо этих слов напиши ссылку" VerticalAlignment="Top" Width="761"  FontFamily="TruthCYR Bold" FontSize="18" BorderBrush="#FFAED110" Foreground="White" Background="#FF40741C" TextChanged="InputedSite_TextChanged"/>
+        <Button Content="Найти" HorizontalAlignment="Left" Margin="10,155,0,0" VerticalAlignment="Top" Width="145" Height="39" FontFamily="TruthCYR Bold" FontSize="18" Click="Button_Click"/>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="10,199,10,10">
+            <TextBlock x:Name="TextSite" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="761" FontFamily="TruthCYR Bold" FontSize="18" Foreground="White" Background="#FF4EB888"/>
+        </ScrollViewer>
+        <CheckBox x:Name="CheckBoxСonditionsNum" Content="c числами" HorizontalAlignment="Left" Margin="204,166,0,0" VerticalAlignment="Top" Height="28" Width="134" FontFamily="TruthCYR Bold" FontSize="18" Foreground="White"/>
+        <CheckBox x:Name="CheckBoxСonditionsOneWork" Content="c одиночными символами" HorizontalAlignment="Left" Margin="343,164,0,0" VerticalAlignment="Top" Height="28" Width="283" FontFamily="TruthCYR Bold" FontSize="18" Foreground="White"/>
+    </Grid>
+</Window>

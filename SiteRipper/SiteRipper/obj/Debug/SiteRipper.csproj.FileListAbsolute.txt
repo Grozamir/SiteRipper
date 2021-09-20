@@ -1,0 +1,15 @@
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\bin\Debug\SiteRipper.exe.config
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\bin\Debug\SiteRipper.exe
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\bin\Debug\SiteRipper.pdb
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.csproj.AssemblyReference.cache
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\MainWindow.g.cs
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\App.g.cs
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper_MarkupCompile.cache
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper_MarkupCompile.lref
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\MainWindow.baml
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.g.resources
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.Properties.Resources.resources
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.csproj.GenerateResource.cache
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.csproj.CoreCompileInputs.cache
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.exe
+C:\Users\Grozamir\source\repos\SiteRipper\SiteRipper\obj\Debug\SiteRipper.pdb
